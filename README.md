@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliif</h1>
-<h3 align="center">Passionate web developer (back-end focus and also climbing on front-end stuff)</h3>
+<h3 align="center">Passionate software developer (back-end focus and also climbing on front-end stuff)</h3>
 
-- 🔭 I’m currently working on [Dynamap](https://github.com/mnamz/dynamap-wp)
+- 🔭 I’m currently working on SferaPOS
 
 - 🌱 I’m currently learning **react**
 
