@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aliif</h1>
-<h3 align="center">Passionate software developer (back-end focus and also climbing on front-end stuff)</h3>
+<h3 align="center">software dev</h3>
 
-- 🔭 I’m currently working on SferaPOS
-
-- 🌱 I’m currently learning **react**
+- 🔭 I’m currently working on SferaPOS and various projects
 
 - 💬 Ask me about **laravel, vue, wordpress**
 
-- 📫 How to reach me **mnamz101@gmail.com**
+- 📫 How to reach me **aliif@aliifz.my**
 
 - 📄 Know about my experiences [https://aliifz.com/resume.pdf](https://aliifz.com/resume.pdf)
 
