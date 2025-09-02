@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aliif</h1>
-<h3 align="center">software dev</h3>
+<h3 align="center">system developer</h3>
 
-- 🔭 I’m currently working on SferaPOS and various projects
+- 🔭 I work on lots of projects, various industries. Driven by passion.
 
-- 💬 Ask me about **laravel, vue, wordpress**
-
-- 📫 How to reach me **aliif@sfera.my**
-
-- 📄 Know about my experiences [https://aliifz.com/resume.pdf](https://aliifz.com/resume.pdf)
+- 📫 Collaborate or just want to chat? **aliif[at]mnamz.my**
