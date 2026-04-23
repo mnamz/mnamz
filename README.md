@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliif</h1>
-<h3 align="center">system developer</h3>
+<h3 align="center">System Developer / System Integration Engineer</h3>
 
 - 🔭 I work on lots of projects, various industries. Driven by passion.
 
